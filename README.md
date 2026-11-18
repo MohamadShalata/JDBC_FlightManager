@@ -17,7 +17,7 @@ This project implements a Flight Arrivals Data Access Layer (DAL) in Java using 
 | **Student B** | `Kamal Hamdony ` | `324833516` | `Kamal.Hamdony@e.braude.ac.il` |
 
 * **Group Number:** `G[5]`
-* **GitHub Repository URL:** `https://github.com/[Username]/JDBC_FlightManager`
+* **GitHub Repository URL:** `https://github.com/MohamadShalata/JDBC_FlightManager.git`
 
 ---
 
